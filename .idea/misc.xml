@@ -3,6 +3,7 @@
   <component name="PrintToLogpointModuleInspectionState">
     <option name="disabledModuleNames">
       <set>
+        <option value="Study" />
         <option value="oop" />
       </set>
     </option>
