@@ -4,6 +4,7 @@
     <option name="disabledModuleNames">
       <set>
         <option value="Study" />
+        <option value="array" />
         <option value="oop" />
       </set>
     </option>
